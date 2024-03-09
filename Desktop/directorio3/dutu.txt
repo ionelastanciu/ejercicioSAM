@@ -1,2 +1,3 @@
 Contenido del archivo dutu.txt
 Nueva modificación en dutu.txt
+Nueva modificación en dutu.txt
